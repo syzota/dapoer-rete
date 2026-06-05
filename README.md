@@ -255,6 +255,81 @@ dapoer-rete/
 
 ---
 
+---
+
+## ▸ Dokumentasi User Interface (UI)
+
+> *Berikut adalah tampilan antarmuka (interface) dari website Dapoer Mba ReTe, mencakup halaman publik dan dashboard manajemen internal.*
+
+### 🌐 Halaman Publik (Responsive Design)
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b> Landing Page / Beranda</b>
+      <br/><br/>
+      <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/582299a8-cd91-4620-9493-26c516f4f26e" />
+      <br/>
+      <i>Menampilkan hero section, preview menu unggulan, dan potret cabang terdekat.</i>
+    </td>
+    <td width="50%" align="center">
+      <b>Katalog Menu Kuliner</b>
+      <br/><br/>
+      <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/39ce1d6b-758a-43c3-9d3f-fd938ede60eb" />
+      <br/>
+      <i>Daftar lengkap hidangan rumah yang bisa dipesan secara takeaway atau delivery.</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>Portal Berita & Informasi</b>
+      <br/><br/>
+      <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9f8e61b1-3a5a-42f7-9348-c9c418398e7e" />
+      <br/>
+      <i>Kumpulan artikel, promo, dan kabar terbaru seputar Dapoer Mba ReTe.</i>
+    </td>
+    <td width="50%" align="center">
+      <b>Detail Artikel Berita</b>
+      <br/><br/>
+      <img width="857" height="1138" alt="image" src="https://github.com/user-attachments/assets/de77e536-cbe1-41b3-8299-d53592989ac3" />
+      <br/>
+      <i>Tampilan penuh konten artikel yang dilengkapi info author, tanggal terbit, dan gambar.</i>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### Panel Manajemen (Owner & Admin)
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b> Form Login</b>
+      <br/><br/>
+      <img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/2b26541e-5421-4587-bc8a-d45b5b08eb37" />
+      <br/>
+      <i>Ringkasan data statistik berupa total berita, produk aktif, dan grafik penjualan.</i>
+    </td>
+    <td width="50%" align="center">
+      <b> Manajemen & CRUD Berita</b>
+      <br/><br/>
+      <img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/ae80ebda-90c5-4342-8e36-b18d13f2052b" />
+      <br/>
+      <i>Tabel data berita lengkap dengan fitur Live Search, filter status, dan tombol aksi cepat.</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b> Form Input & Validasi Berita</b>
+      <br/><br/>
+      <img width="1903" height="1191" alt="image" src="https://github.com/user-attachments/assets/c90757c1-e723-469e-8ccf-01f2aa6ce832" />
+      <br/>
+      <i>Form dinamis untuk menambah konten artikel baru beserta upload media gambar (max 2MB).</i>
+    </td>
+  </tr>
+</table>
+
 ## ▸ Instalasi Lokal
 
 ```bash
