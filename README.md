@@ -24,7 +24,7 @@
 
 | 2 Role | 6 Tabel | 4 Fitur Berita |
 |:------:|:-------:|:--------------:|
-| Owner & Pegawai | Inti Sistem | CRUD + Search | 
+| Owner & User | Inti Sistem | CRUD + Search | 
 
 </div>
 
